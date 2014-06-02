@@ -23,6 +23,7 @@
         rs.next();
         rowCount = 1;
     } catch (SQLException e) {
+        //登陆检验失败
     }
     if (rowCount != 0&&certCode.equals((String)session.getAttribute("certCode"))) {//
         //------通过检查------
