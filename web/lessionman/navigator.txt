@@ -1,0 +1,7 @@
+<table border="0" width="100%">
+  <tr>
+    <td width="100%">
+      <p align="left">您当前所在位置：课程信息管理-->课程信息管理</p>
+    </td>
+  </tr>
+</table>

@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="jsp-serverlet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/sqljdbc4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/jcommon-1.0.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/jfreechart-1.0.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/jfreesvg-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/orsoncharts-1.0-eval.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/orsonpdf-1.3-eval.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/swtgraphics2d.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/jfreechart-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

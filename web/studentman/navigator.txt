@@ -1,0 +1,8 @@
+  <tr>
+    <td width="100%">
+      <p align="center">
+      <a href="studentman.jsp">查询和维护学生信息</a>|
+      <a href="student_add.jsp">录入学生信息</a>
+      </p>
+    </td>
+  </tr>

@@ -1,0 +1,8 @@
+  <tr>
+    <td width="100%">
+      <p align="center">
+      <a href="teachlessionman.jsp">学生成绩查询</a>|
+      <a href="core_add.jsp">录入学生成绩</a>
+      </p>
+    </td>
+  </tr>

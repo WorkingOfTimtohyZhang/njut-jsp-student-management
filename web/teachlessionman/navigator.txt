@@ -1,0 +1,8 @@
+  <tr>
+    <td width="100%">
+      <p align="center">
+      <a href="teachlessionman.jsp">查询和维护教师授课信息</a>|
+      <a href="teachlession_add.jsp">录入教师授课信息</a>
+      </p>
+    </td>
+  </tr>
